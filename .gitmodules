@@ -1,0 +1,3 @@
+[submodule "02_construction"]
+	path = 02_construction
+	url = git@github.com:yevagorbachev/02_construction.git
