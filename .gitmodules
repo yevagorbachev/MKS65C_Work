@@ -1,7 +1,9 @@
 [submodule "02_construction"]
 	path = 02_construction
 	url = git@github.com:yevagorbachev/02_construction.git
-
 [submodule "03_list"]
 	path = 03_list
 	url = git@github.com:yevagorbachev/03_list.git
+[submodule "my_tunes"]
+	path = my_tunes
+	url = git@github.com:yevagorbachev/my_tunes.git
