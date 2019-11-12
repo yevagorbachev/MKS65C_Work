@@ -7,6 +7,6 @@
 [submodule "my_tunes"]
 	path = my_tunes
 	url = git@github.com:yevagorbachev/my_tunes.git
-[submodule "randfile"]
+[submodule "04_randfile"]
 	path = randfile
 	url = git@github.com:yevagorbachev/randfile.git
