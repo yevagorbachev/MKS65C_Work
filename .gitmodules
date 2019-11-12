@@ -4,3 +4,6 @@
 [submodule "03_list"]
 	path = 03_list
 	url = git@github.com:yevagorbachev/03_list.git
+[submodule "04_randfile"]
+	path = 04_randfile
+	url = git@github.com:yevagorbachev/04_randfile.git
