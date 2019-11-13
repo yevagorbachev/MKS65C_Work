@@ -7,3 +7,6 @@
 [submodule "04_randfile"]
 	path = 04_randfile
 	url = git@github.com:yevagorbachev/04_randfile.git
+[submodule "05_stat"]
+	path = 05_stat
+	url = git@github.com:yevagorbachev/05_stat.git
