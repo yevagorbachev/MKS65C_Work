@@ -10,3 +10,6 @@
 [submodule "05_stat"]
 	path = 05_stat
 	url = git@github.com:yevagorbachev/05_stat.git
+[submodule "06_dirinfo"]
+	path = 06_dirinfo
+	url = git@github.com:yevagorbachev/06_dirinfo.git
