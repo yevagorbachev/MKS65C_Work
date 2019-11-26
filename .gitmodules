@@ -13,3 +13,6 @@
 [submodule "06_dirinfo"]
 	path = 06_dirinfo
 	url = git@github.com:yevagorbachev/06_dirinfo.git
+[submodule "07_parse_args"]
+	path = 07_parse_args
+	url = git@github.com:yevagorbachev/07_parse_args.git
