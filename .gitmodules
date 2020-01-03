@@ -16,3 +16,6 @@
 [submodule "07_parse_args"]
 	path = 07_parse_args
 	url = git@github.com:yevagorbachev/07_parse_args.git
+[submodule "08_semaphone"]
+	path = 08_semaphone
+	url = git@github.com:yevagorbachev/08_semaphone.git
